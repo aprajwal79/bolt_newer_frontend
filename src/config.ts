@@ -1,1 +1,1 @@
-export const BACKEND_URL = "https://bolt-newer-be.vercel.app:3000/"
+export const BACKEND_URL = "https://bolt-newer-be.vercel.app:3000"
